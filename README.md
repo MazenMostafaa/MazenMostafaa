@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Mostafa</h1>
+<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png](https://www.canva.com/design/DAFvfRnzc7g/qWxjbhurGUYxH7Sln4pvXw/view?utm_content=DAFvfRnzc7g&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)"> </div>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MazenMostafaa](https://github.com/MazenMostafaa)
