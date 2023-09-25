@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Mostafa</h1>
+<div align="center"><img src="https://github.com/MazenMostafaa/MazenMostafaa/blob/main/banner.png"></div>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
