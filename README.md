@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MazenMostafaa](https://github.com/MazenMostafaa)
 
-- 💬 Ask me about **Node.js & Express.js & MongoDB**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **mazenmostafa047@gmail.com**
 
